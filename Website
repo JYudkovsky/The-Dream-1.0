@@ -3,7 +3,7 @@
 <head>
 	<title>Our Website</title>
 </head>
-<body>
+<body style="background-color: green;">
 <h1 align="center">Elo Hell In A Nutshell</h1>
 </body>
 </html>
