@@ -1,9 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Our Website</title>
+	<title> Elo Hell in a Nutshell </title>
 </head>
-<body style="background-color: green;">
-<h1 align="center">Elo Hell In A Nutshell</h1>
+<style>
+
+p.intro {
+    background-color:black;
+    color:black;
+    border:1px solid grey;
+    padding:5px 5px;
+    margin:15px;
+    font-size:150%;
+    text-align: center;
+    font-family: verdana;
+}
+ 
+img {
+	display: block;
+	margin: auto;
+}
+</style>
+<body>
+
+<h1 style="text-align:center; font-family:verdana; font-size: 300%"> <i> Elo <span style="color:red">Hell</span> in a Nutshell  </i> </h1>
+
+<p class="intro"> Follow your dreams </p>
+
+<a href="https://www.youtube.com/channel/UC954xFkYaFwNGawqdFamPbQ/featured"> 
+ <img title="Do it." align="middle" src="challengerart.png"> 
+</a>
+
+<p style="text-align: center;"> <i>Follow your dreams brother, you can do it.</i></p>
+
+<p class="intro"> Follow your dreams </p>
+
+
 </body>
 </html>
